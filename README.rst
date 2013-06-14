@@ -3,9 +3,9 @@ An initial study of topical poetry segmentation
 
 Analysis of linear segmentations of the poem Kubla Kahn (Coleridge 1816) collected from Mechanical Turk collected in Fournier (2013).
 
-* `Read the paper <http://nlp.chrisfournier.ca/publications/pdf/fournier_2013b.pdf>`
-* `Download the data <https://github.com/cfournie/segmentation.corpora>`
-* `View the analysis`
+* `Read the paper <http://nlp.chrisfournier.ca/publications/pdf/fournier_2013b.pdf>`_
+* `Download the data <https://github.com/cfournie/segmentation.corpora>`_
+* `View the analysis <http://nbviewer.ipython.org/urls/raw.github.com/cfournie/initial.poetry.segmentation/master/khan_segmentation.ipynb>`_
 
 
 References
