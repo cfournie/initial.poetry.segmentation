@@ -5,6 +5,7 @@ Analysis of linear segmentations of the poem Kubla Kahn (Coleridge 1816) collect
 
 * `Read the paper <http://nlp.chrisfournier.ca/publications/pdf/fournier_2013b.pdf>`_
 * `Download the data <https://github.com/cfournie/segmentation.corpora>`_
+* `Use the software <https://github.com/cfournie/segmentation.evaluation>`_
 * `View the analysis <http://nbviewer.ipython.org/urls/raw.github.com/cfournie/initial.poetry.segmentation/master/khan_segmentation.ipynb>`_
 
 
